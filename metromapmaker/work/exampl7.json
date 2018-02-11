@@ -1,0 +1,58 @@
+
+{
+    "name":"dsa",
+    "background-color":{
+        "red":0.9019607901573181,
+        "green":0.9019607901573181,
+        "blue":0.7019608020782471,
+        "alpha":1.0
+    },
+    "background-image":"",
+    "text":[
+        {
+            "text":"Arrr",
+            "text-color":{
+                "red":0.4000000059604645,
+                "green":0.3019607961177826,
+                "blue":0.7019608020782471,
+                "alpha":1.0
+            },
+            "font-family":"Times New Roman",
+            "fontstyle":"Bold Italic",
+            "fontSize":48.0,
+            "startX":258.0,
+            "startY":289.0,
+            "endX":379.40625,
+            "endY":205.84375
+        }
+    ],
+    "image":[
+    ],
+    "lines":[
+    ],
+    "stations":[
+        {
+            "name":"1",
+            "color":{
+                "red":0.6000000238418579,
+                "green":0.6000000238418579,
+                "blue":0.20000000298023224,
+                "alpha":1.0
+            },
+            "radius":15.0,
+            "labelpos":0,
+            "rotationpos":0,
+            "stationtextcolor":{
+                "red":0.0,
+                "green":0.0,
+                "blue":0.0,
+                "alpha":1.0
+            },
+            "font-family":"Verdana",
+            "font-style":"Regular",
+            "font-size":12.0,
+            "x":184.0,
+            "y":186.0
+        }
+    ]
+}
